@@ -5,6 +5,21 @@ Sorting is considered to be an important concept in many programming languages a
 The bubble sorting algorithm is one of the easiest to learn and that is the first one normally taught. Here is a 5min explanation on how the bubble algorithm works:
 [https://www.youtube.com/watch?v=xli_FI7CuzA](https://www.youtube.com/watch?v=xli_FI7CuzA)
 
+VANILLAJS BOILERPLATE ENGLISH
+
+## 🌱  How to start this project
+
+Do not clone this repository. The first step to start coding is cloning the [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) on your local computer or opening it using gitpod.
+
+a) If using Gitpod (recomendada) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/vanillajs-hello).
+
+b) If working locally type the following command from your command line: 
+```sh
+$ git clone https://github.com/4GeeksAcademy/vanillajs-hello
+````
+
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
 ## 📝 Instructions
 
 1. Create a function that generates a list of random cards with suits.
